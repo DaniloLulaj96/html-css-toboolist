@@ -19,3 +19,27 @@ header{background-color: white;
 height: 120px;}
 
 body{background-color: rgb(244, 244, 244);}
+
+.box{background-color: white;
+margin: 20px;
+margin-left: 250px;
+border-radius: 12px;
+width: 60%;}
+
+.add_task{background-color: #47ADF1;
+margin-top: 30px;
+margin-bottom: 30px;
+margin-left: 50px;
+color: white;
+font-weight: bold;
+border: solid #47ADF1;
+border-radius: 6px;
+width: 90px;
+height: 35px;}
+
+.add_section{background-color: white;
+border: solid rgb(205, 205, 205);
+border-radius: 6px;
+color: rgb(205, 205, 205);
+width: 90px;
+height: 35px;}
