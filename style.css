@@ -103,3 +103,15 @@ border: solid rgb(255, 155, 0);
 border-radius: 6px;
 width: 60px;
 color: white;}
+
+.website{background-color: rgb(236, 74, 157);
+border: solid rgb(236, 74, 157);
+border-radius: 6px;
+width: 60px;
+color: white;}
+
+.sales{background-color: rgb(163, 209, 22);
+border: solid rgb(163, 209, 22);
+border-radius: 6px;
+width: 60px;
+color: white;}
