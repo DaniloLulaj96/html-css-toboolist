@@ -24,18 +24,24 @@ body{background-color: rgb(244, 244, 244);}
 margin: 20px;
 margin-left: 250px;
 border-radius: 12px;
+width: 60%;
+margin-bottom: 10px;}
+
+.box_2{background-color: white;
+margin-left: 250px;
+border-radius: 12px;
 width: 60%;}
 
 .add_task{background-color: #47ADF1;
 margin-top: 30px;
-margin-bottom: 30px;
 margin-left: 50px;
 color: white;
 font-weight: bold;
 border: solid #47ADF1;
 border-radius: 6px;
 width: 90px;
-height: 35px;}
+height: 35px;
+margin-bottom: 45px;}
 
 .add_section{background-color: white;
 border: solid rgb(205, 205, 205);
@@ -43,3 +49,57 @@ border-radius: 6px;
 color: rgb(205, 205, 205);
 width: 90px;
 height: 35px;}
+
+.title_details{font-size: 20px;
+padding-left: 45px;
+font-family: Arial;
+padding-top: 25px;}
+
+.inline{display: inline-block;}
+
+.circle{height: 15px;
+width: 15px;
+border: solid rgb(45, 198, 171);
+border-radius: 50px;
+margin-top: 20px;
+font-size: x-small;
+border-width: 1px;
+text-align: center;
+color: rgb(45, 198, 171);}
+
+.editorial{background-color: #47ADF1;
+color: white;
+border: solid #47ADF1;
+border-radius: 6px;
+width: 60px;
+margin-top: 20px;}
+
+.text{margin-top: 20px;}
+
+.q1goals{background-color: rgb(171, 93, 230);
+border: solid rgb(171, 93, 230) ;
+border-radius: 6px;
+width: 60px;
+color: white;}
+
+.redcircle{height: 15px;
+width: 15px;
+border: solid red;
+border-radius: 50px;
+font-size: x-small;
+border-width: 1px;
+text-align: center;
+color: red;
+margin-top: 20px;}
+
+.recruiting{background-color: rgb(44, 198, 171);
+border: solid rgb(44, 198, 171);
+border-radius: 6px;
+width: 75px;
+color: white;}
+
+.mobile{background-color: rgb(255, 155, 0);
+border: solid rgb(255, 155, 0);
+border-radius: 6px;
+width: 60px;
+color: white;}
